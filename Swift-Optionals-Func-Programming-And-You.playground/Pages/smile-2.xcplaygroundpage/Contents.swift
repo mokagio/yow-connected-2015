@@ -1,0 +1,1 @@
+//: ![](spock-that-simple.gif)

@@ -1,0 +1,2 @@
+//: ### ☝️ FP Concept
+//: ## Functor

@@ -1,8 +1,6 @@
 # Swift Optionals, Functional Programming, and You
 
-The playground will be uploaded here at the end of the conference. Thanks ☺️.
-
-_Now pay attention! ☝️_
+This is the Playground used in my talk [Swift Optionals, Functional Programming, and You](http://connected.yowconference.com.au/speakers/) at [YOW! Connected 2015](http://connected.yowconference.com.au/).
 
 ---
 

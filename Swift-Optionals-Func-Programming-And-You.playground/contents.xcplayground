@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' auto-termination-delay='10' requires-full-environment='true' display-mode='raw'>
+    <pages>
+        <page name='intro'/>
+        <page name='if-let'/>
+        <page name='nasty-if-let'/>
+        <page name='nasty-guard'/>
+        <page name='me'/>
+        <page name='functional-programming'/>
+        <page name='lets-go'/>
+        <page name='free-functions'/>
+        <page name='functions-as-input'/>
+        <page name='functions-as-output'/>
+        <page name='higher-order-functions'/>
+        <page name='smile-1'/>
+        <page name='array-map'/>
+        <page name='array-type'/>
+        <page name='optional-type'/>
+        <page name='optional-map'/>
+        <page name='follow-the-types'/>
+        <page name='functor'/>
+        <page name='smile-2'/>
+        <page name='less-nasty-if-let'/>
+        <page name='nested-array'/>
+        <page name='flatten-array'/>
+        <page name='array-flat-map'/>
+        <page name='optional-flat-map'/>
+        <page name='monad'/>
+        <page name='smile-3'/>
+        <page name='better-if-let'/>
+        <page name='smile-4'/>
+        <page name='example-1'/>
+        <page name='example-2'/>
+        <page name='example-3'/>
+        <page name='questions'/>
+        <page name='operators'/>
+        <page name='thanks'/>
+    </pages>
+</playground>
